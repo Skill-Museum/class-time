@@ -6,7 +6,7 @@ export default function SkeletonCard() {
             {/* Top half */}
             <div className="flex gap-3">
                 {/* Avatar skeleton */}
-                <div className="w-12 h-12 rounded-full bg-slate-200 dark:bg-slate-700/50 flex-shrink-0" />
+                <div className="w-12 h-12 rounded-full bg-slate-200 dark:bg-slate-700/50 shrink-0" />
 
                 {/* Name and dept skeleton */}
                 <div className="flex flex-col gap-2 flex-1 pt-1">

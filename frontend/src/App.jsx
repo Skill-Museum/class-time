@@ -112,7 +112,7 @@ function SchedulePage() {
                 <Header />
 
                 {/* Controls */}
-                <div className="bg-white/80 dark:bg-white/3 border border-slate-200 dark:border-white/8 rounded-3xl p-4 sm:p-5 space-y-4 shadow-sm dark:shadow-none backdrop-blur-md transition-colors">
+                <div className="bg-white/80 dark:bg-white/3 border border-slate-200 dark:border-white/8 rounded-2xl sm:rounded-3xl p-3 sm:p-5 space-y-4 shadow-sm dark:shadow-none backdrop-blur-md transition-colors">
                     <DaySelector
                         selectedDay={selectedDay}
                         onSelect={setSelectedDay}
