@@ -1,0 +1,171 @@
+{
+    "departments": ["Robotics", "Robo", "Development"],
+    "interns": [
+        {
+            "id": "an",
+            "name": "Aryan Neupane",
+            "department": "Development",
+            "image": null
+        },
+        {
+            "id": "sb",
+            "name": "Suhas Bajracharya",
+            "department": "Development",
+            "image": null
+        },
+        {
+            "id": "ss",
+            "name": "Shubham Subedi",
+            "department": "Robotics",
+            "image": null
+        },
+        {
+            "id": "skc",
+            "name": "Saman KC",
+            "department": "Robotic",
+            "image": null
+        },
+        {
+            "id": "ik",
+            "name": "Isha Karki",
+            "department": "Robo",
+            "image": null
+        },
+        {
+            "id": "sk",
+            "name": "Shounat Khadka",
+            "department": "Robotic",
+            "image": null
+        },
+        {
+            "id": "pp",
+            "name": "Prayan Piya",
+            "department": "Development",
+            "image": null
+        }
+    ],
+    "schedules": {
+        "an": {
+            "sunday": [{ "start": "07:00", "end": "09:00" }],
+            "monday": [
+                { "start": "10:00", "end": "12:00" },
+                { "start": "13:00", "end": "15:00" }
+            ],
+            "tuesday": [{ "start": "10:00", "end": "12:30" }],
+            "wednesday": [{ "start": "09:00", "end": "11:00" }],
+            "thursday": [],
+            "friday": [{ "start": "09:00", "end": "11:30" }],
+            "saturday": []
+        },
+        "sb": {
+            "sunday": [{ "start": "07:00", "end": "09:00" }],
+            "monday": [
+                { "start": "09:00", "end": "11:00" },
+                { "start": "12:00", "end": "14:00" }
+            ],
+            "tuesday": [
+                { "start": "10:00", "end": "11:30" },
+                { "start": "13:00", "end": "14:30" }
+            ],
+            "wednesday": [
+                { "start": "08:30", "end": "10:00" },
+                { "start": "11:30", "end": "13:00" }
+            ],
+            "thursday": [
+                { "start": "09:00", "end": "10:00" },
+                { "start": "10:00", "end": "11:00" },
+                { "start": "12:00", "end": "14:00" }
+            ],
+            "friday": [
+                { "start": "09:00", "end": "11:00" },
+                { "start": "12:00", "end": "13:00" }
+            ],
+            "saturday": []
+        },
+        "ss": {
+            "sunday": [{ "start": "11:00", "end": "13:00" }],
+            "monday": [
+                { "start": "11:00", "end": "13:00" },
+                { "start": "14:00", "end": "16:00" }
+            ],
+            "tuesday": [
+                { "start": "10:00", "end": "11:30" },
+                { "start": "13:00", "end": "14:30" }
+            ],
+            "wednesday": [
+                { "start": "08:30", "end": "10:00" },
+                { "start": "11:30", "end": "13:00" }
+            ],
+            "thursday": [
+                { "start": "13:00", "end": "14:00" },
+                { "start": "14:00", "end": "15:00" }
+            ],
+            "friday": [
+                { "start": "08:00", "end": "10:00" },
+                { "start": "10:30", "end": "11:30" },
+                { "start": "12:00", "end": "13:00" }
+            ],
+            "saturday": []
+        },
+        "skc": {
+            "sunday": [
+                { "start": "09:00", "end": "11:00" },
+                { "start": "12:00", "end": "14:00" }
+            ],
+            "monday": [{ "start": "13:00", "end": "15:30" }],
+            "tuesday": [{ "start": "08:00", "end": "10:30" }],
+            "wednesday": [{ "start": "12:00", "end": "14:00" }],
+            "thursday": [
+                { "start": "09:00", "end": "11:00" },
+                { "start": "12:00", "end": "14:30" }
+            ],
+            "friday": [
+                { "start": "10:00", "end": "12:00" },
+                { "start": "13:00", "end": "15:00" }
+            ],
+            "saturday": []
+        },
+        "ik": {
+            "sunday": [{ "start": "11:00", "end": "13:00" }],
+            "monday": [
+                { "start": "10:00", "end": "12:00" },
+                { "start": "13:30", "end": "15:00" }
+            ],
+            "tuesday": [],
+            "wednesday": [{ "start": "10:00", "end": "12:00" }],
+            "thursday": [{ "start": "12:30", "end": "15:00" }],
+            "friday": [{ "start": "10:30", "end": "13:00" }],
+            "saturday": []
+        },
+        "sk": {
+            "sunday": [
+                { "start": "09:00", "end": "11:00" },
+                { "start": "12:00", "end": "14:30" }
+            ],
+            "monday": [{ "start": "09:30", "end": "11:30" }],
+            "tuesday": [{ "start": "10:00", "end": "12:00" }],
+            "wednesday": [{ "start": "12:00", "end": "14:00" }],
+            "thursday": [{ "start": "10:30", "end": "13:00" }],
+            "friday": [],
+            "saturday": []
+        },
+        "pp": {
+            "sunday": [{ "start": "08:00", "end": "10:30" }],
+            "monday": [
+                { "start": "11:00", "end": "13:00" },
+                { "start": "14:00", "end": "16:30" }
+            ],
+            "tuesday": [
+                { "start": "07:00", "end": "09:00" },
+                { "start": "10:00", "end": "12:30" }
+            ],
+            "wednesday": [
+                { "start": "07:00", "end": "09:00" },
+                { "start": "10:00", "end": "12:00" }
+            ],
+            "thursday": [{ "start": "13:00", "end": "15:00" }],
+            "friday": [{ "start": "13:00", "end": "15:00" }],
+            "saturday": []
+        }
+    }
+}
