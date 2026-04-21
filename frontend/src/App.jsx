@@ -139,7 +139,7 @@ function SchedulePage() {
                             <span className="text-slate-900 dark:text-white font-semibold">
                                 {filteredInterns.length}
                             </span>{" "}
-                            intern{filteredInterns.length !== 1 ? "s" : ""}
+                            member{filteredInterns.length !== 1 ? "s" : ""}
                         </span>
                         <span className="hidden sm:inline text-slate-300 dark:text-slate-700">
                             |

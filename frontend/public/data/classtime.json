@@ -14,6 +14,30 @@
             "image": null
         },
         {
+            "id": "as",
+            "name": "Anupam Sigdel",
+            "department": "Development",
+            "image": null
+        },
+        {
+            "id": "bp",
+            "name": "Bibek Poudel",
+            "department": "Development",
+            "image": null
+        },
+        {
+            "id": "jb",
+            "name": "Jitendra Bhujel",
+            "department": "Development",
+            "image": null
+        },
+        {
+            "id": "ag",
+            "name": "Anuja Gautam",
+            "department": "Development",
+            "image": null
+        },
+        {
             "id": "an",
             "name": "Aryan Neupane",
             "department": "Development",
@@ -195,6 +219,42 @@
             "wednesday": [],
             "thursday": [],
             "friday": [],
+            "saturday": []
+        },
+        "as": {
+            "sunday": [],
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [],
+            "thursday": [],
+            "friday": [],
+            "saturday": []
+        },
+        "bp": {
+            "sunday": [],
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [],
+            "thursday": [],
+            "friday": [],
+            "saturday": []
+        },
+        "jb": {
+            "sunday": [],
+            "monday": [],
+            "tuesday": [],
+            "wednesday": [],
+            "thursday": [],
+            "friday": [],
+            "saturday": []
+        },
+        "ag": {
+            "sunday": [{ "start": "06:30", "end": "08:30" }],
+            "monday": [{ "start": "06:30", "end": "08:30" }],
+            "tuesday": [],
+            "wednesday": [{ "start": "06:30", "end": "08:30" }],
+            "thursday": [],
+            "friday": [{ "start": "06:30", "end": "08:30" }],
             "saturday": []
         }
     }
