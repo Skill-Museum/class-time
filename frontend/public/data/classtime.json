@@ -9,7 +9,7 @@
         },
         {
             "id": "ak",
-            "name": "Aayush Katwak",
+            "name": "Aayush Katwal",
             "department": "Development",
             "image": null
         },
@@ -58,7 +58,7 @@
         {
             "id": "skc",
             "name": "Saman KC",
-            "department": "Robotic",
+            "department": "Robotics",
             "image": null
         },
         {
@@ -69,8 +69,8 @@
         },
         {
             "id": "sk",
-            "name": "Shounat Khadka",
-            "department": "Robotic",
+            "name": "Shoumant Khadka",
+            "department": "Robotics",
             "image": null
         },
         {
